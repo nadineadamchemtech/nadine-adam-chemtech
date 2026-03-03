@@ -8,6 +8,9 @@
   </a>
 </div>
     <meta charset="UTF-8">
+<meta name="google-site-verification" content="tGm7uH2Izo5OXrkgSM2w4cXZLraDLlH-lW9_6kEKGzM" />
+<link rel="canonical" href="https://nadine-adam-chemtech.netlify.app/" />
+
      <!-- SEO Meta Title -->
   <title>How Nadine Adam Chemtech Became a Leading Distribution Force in Mauritius | Nadine Adam Medtech</title>
   
@@ -361,4 +364,5 @@
 </script>
 
 </body>
+
 </html>
